@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ExerciseMenu18A</string>
+    <string name="lu">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="txtun">Masukkan Username</string>
+    <string name="txtps">Masukkan Password</string>
+    <string name="si">SIGN IN</string>
+    <string name="mhbd">Menu Hitung Bangun Datar</string>
+    <string name="p">Persegi</string>
+    <string name="lp">Luas Persegi</string>
+    <string name="lpp">Luas Persegi Panjang</string>
+    <string name="ll">Luas Lingkaran</string>
+    <string name="ls">Luas Segitiga</string>
+    <string name="lt">Luas Trapesium</string>
+    <string name="kp">Keliling Persegi</string>
+    <string name="kpp">Keliling Persegi Panjang</string>
+    <string name="kl">Keliling Lingkaran</string>
+    <string name="kt">Keliling Trapesium</string>
+    <string name="ks">Keliling Segitiga</string>
+    <string name="ms">Masukkan Sisi</string>
+    <string name="mat">Masukkan a</string>
+    <string name="mbt">Masukkan Panjang Sisi Miring</string>
+    <string name="mct">Masukkan c</string>
+    <string name="ma">Masukkan Alas</string>
+    <string name="mt">Masukkan Tinggi</string>
+    <string name="mr">Masukkan Jari-Jari</string>
+    <string name="mp">Masukkan Panjang</string>
+    <string name="ml">Masukkan Lebar</string>
+    <string name="hl">Hitung Luas</string>
+    <string name="hk">Hitung Keliling</string>
+    <string name="hsl">Hasil</string>
+</resources>

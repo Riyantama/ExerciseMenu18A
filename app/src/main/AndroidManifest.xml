@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.exercisemenu18a">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".KllTrapesium"></activity>
+        <activity android:name=".LuasTrapesium" />
+        <activity android:name=".LuasSegitiga" />
+        <activity android:name=".KllSegitiga" />
+        <activity android:name=".KllLingkaran" />
+        <activity android:name=".LuasLingkaran" />
+        <activity android:name=".KllPp" />
+        <activity android:name=".LuasPp" />
+        <activity android:name=".LuasPersegi" />
+        <activity android:name=".KllPersegi" />
+        <activity android:name=".DaftarMenu" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
